@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm AKYUNG KIM 👋
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
-
+###
 
 🛠️ Stacks
 
@@ -13,16 +10,12 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 💪🏼 Tools 
 
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
 
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](2004924@donga.ac.kr)
 
 
 🏅 Algorithm Gold Level. 
@@ -35,14 +28,7 @@ Samsung SW *나중에 적어두기*
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
 
-
-
-
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
 
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akyung123&show_icons=true&theme=radical)
 
